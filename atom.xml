@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-02-12T15:39:05.690Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://realrickyu.github.io/"/>
+  <updated>2020-02-12T16:44:02.694Z</updated>
+  <id>http://realrickyu.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>次要的生活</title>
-    <link href="http://yoursite.com/2020/02/12/%E6%AC%A1%E8%A6%81%E7%9A%84%E7%94%9F%E6%B4%BB/"/>
-    <id>http://yoursite.com/2020/02/12/%E6%AC%A1%E8%A6%81%E7%9A%84%E7%94%9F%E6%B4%BB/</id>
+    <link href="http://realrickyu.github.io/2020/02/12/%E6%AC%A1%E8%A6%81%E7%9A%84%E7%94%9F%E6%B4%BB/"/>
+    <id>http://realrickyu.github.io/2020/02/12/%E6%AC%A1%E8%A6%81%E7%9A%84%E7%94%9F%E6%B4%BB/</id>
     <published>2020-02-12T15:27:00.000Z</published>
-    <updated>2020-02-12T15:39:05.690Z</updated>
+    <updated>2020-02-12T16:44:02.694Z</updated>
     
-    <content type="html"><![CDATA[<p>喜迎<br>5G<br>时代</p><p>学习博客技术</p><p><img src="%5Cimages%5Cpasted-0.png" alt="upload successful"></p>]]></content>
+    <content type="html"><![CDATA[<p>喜迎<br>5G<br>时代</p><p>学习博客技术</p><p><img src="/images/pasted-0.png" alt="upload successful"></p>]]></content>
     
     <summary type="html">
     
@@ -31,7 +31,7 @@
       
         &lt;p&gt;喜迎&lt;br&gt;5G&lt;br&gt;时代&lt;/p&gt;
 &lt;p&gt;学习博客技术&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;%5Cimages%5Cpasted-0.png&quot; alt=&quot;upload successful&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/pasted-0.png&quot; alt=&quot;upload successful&quot;&gt;&lt;/p&gt;
 
       
     
@@ -43,8 +43,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/02/12/hello-world/"/>
-    <id>http://yoursite.com/2020/02/12/hello-world/</id>
+    <link href="http://realrickyu.github.io/2020/02/12/hello-world/"/>
+    <id>http://realrickyu.github.io/2020/02/12/hello-world/</id>
     <published>2020-02-12T14:30:26.000Z</published>
     <updated>2020-02-12T14:33:24.431Z</updated>
     
